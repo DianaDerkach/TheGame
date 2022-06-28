@@ -1,7 +1,7 @@
 import React from 'react';
 import {View, Image, StyleSheet, Text} from 'react-native';
 
-export const ThingsDisplayer = () => {
+export const ThingsDisplayerComponent = () => {
   return (
     <View style={styles.container}>
       <Image
